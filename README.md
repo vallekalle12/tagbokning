@@ -1,2 +1,2 @@
 # tagbokning
-Console-based train booking system inspired by SJ. Course project in Introduction to Programming (Python).
+Konsolbaserat bokningssystem för tågresor, inspirerat av SJ. Kursprojekt i Grundläggande programmering (Python).
